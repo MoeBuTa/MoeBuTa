@@ -6,5 +6,5 @@ I'm a student studying master's degree of software engineering at the University
 
 - 🔭 I’m currently working on [MTDSimTime](https://github.com/MoeBuTa/MTDSimTime) and [PubMedConnections](https://github.com/PubMedConnections)
 - 🤔 I'm going to find a job in Perth...
-- 📫 How to reach me: moebutamail@gmail.com
+- 📫 How to reach me: moebutamail@gmail.com, 22792191@student.uwa.edu.au
 
