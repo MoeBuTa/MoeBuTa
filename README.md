@@ -9,7 +9,7 @@ Here are some of the projects I've completed:
 
 🏥 [PubMedConnections](https://github.com/PubMedConnections/PubMedConnections) - A tool for exploring the relationships between authors in the PubMed database. 
 
-🛤️ [SlimeMould](https://github.com/MoeBuTa/SlimeMould) - CITS4403 A Python-based model simulating the behaviour of the slime mould using the geometric data of Nanjing subway system.
+🛤️ [SlimeMould](https://github.com/MoeBuTa/SlimeMould) - A Python-based model simulating the behaviour of the slime mould using the geometric data of Nanjing subway system.
 
 ♟️ [ChineseChessTutorial](https://github.com/MoeBuTa/ChineseChessTutorial) - CITS3004 Agile Web Development project using Flask, Jinja, and Sqlite.
 
