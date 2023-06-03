@@ -25,6 +25,6 @@ Current Status:
 - 📫 You can reach me at moebutamail@gmail.com.
 - 🔗  Connect with me on LinkedIn: https://www.linkedin.com/in/wenxiao-zhang-a0801b206/.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeBuTa&layout=donut&theme=radical)](https://github.com/MoeBuTa/github-readme-stats)
-[![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=radical)](https://github.com/MoeBuTa/github-readme-stats&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeBuTa&layout=donut&theme=dracula)](https://github.com/MoeBuTa/github-readme-stats)
+[![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=dracula)](https://github.com/MoeBuTa/github-readme-stats&show_icons=true)
 
