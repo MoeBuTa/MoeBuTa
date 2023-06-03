@@ -20,7 +20,7 @@ Here are some of the projects I've completed:
 ☁️ [CloudComputing](https://github.com/MoeBuTa/CloudComputing) - CITS5503 Cloud Computing Lab assignments.
 
 
-Current Status:
+Current Status: 
 - 🤔 I'm actively seeking a job in Perth. 
 - 📫 You can reach me at moebutamail@gmail.com.
 - 🔗  Connect with me on LinkedIn: https://www.linkedin.com/in/wenxiao-zhang-a0801b206/.
