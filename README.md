@@ -26,5 +26,5 @@ Current Status:
 - 🔗  Connect with me on LinkedIn: https://www.linkedin.com/in/wenxiao-zhang-a0801b206/.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeBuTa&layout=donut&theme=tokyonight)](https://github.com/MoeBuTa/github-readme-stats)
-[![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=tokyonight)](https://github.com/MoeBuTa/github-readme-stats&show_icons=true)
+<!-- [![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=tokyonight)](https://github.com/MoeBuTa/github-readme-stats&show_icons=true) -->
 
