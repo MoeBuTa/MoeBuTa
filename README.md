@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm MoeBuTa:) 
 
 
-I'm a student studying Master's degree of Software Engineering at The University of Western Australia. I like software programming and ACG related stuff (you can tell it by googling the meaning of my id). I'm aiming to become a "tech otaku".
+I am a graduate with a Master's degree in Software Engineering from The University of Western Australia. I like software programming and ACG-related stuff (you can tell by googling the meaning of my id). I'm aiming to become a "tech otaku".
 
 Here are some of the projects I've completed:
 
@@ -9,7 +9,7 @@ Here are some of the projects I've completed:
 
 🏥 [PubMedConnections](https://github.com/PubMedConnections/PubMedConnections) - A tool for exploring the relationships between authors in the PubMed database. 
 
-🛤️ [SlimeMould](https://github.com/MoeBuTa/SlimeMould) - A Python-based model simulating the behaviour of the slime mould using the geometric data of Nanjing subway system.
+🛤️ [SlimeMould](https://github.com/MoeBuTa/SlimeMould) - A Python-based model simulating the slime mould's behaviour using the Nanjing subway system's geometric data.
 
 ♟️ [ChineseChessTutorial](https://github.com/MoeBuTa/ChineseChessTutorial) - CITS3004 Agile Web Development project using Flask, Jinja, and Sqlite.
 
