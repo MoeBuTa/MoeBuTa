@@ -15,7 +15,7 @@ Here are some of the projects I've completed:
 
 🔢 [ComputationalAnalysis](https://github.com/MoeBuTa/ComputationalAnalysis) - CITS4009 Computational Analysis data visualisation project written in R.
 
-🖥️ [MachineLearning](https://github.com/MoeBuTa/MachineLearning) - CITS5508 Machine Learning Lab assignments.
+🖥️ [MachineLearning](https://github.com/MoeBuTa/MachineLearning) - CITS5508 Machine Learning lab assignments.
 
 ☁️ [CloudComputing](https://github.com/MoeBuTa/CloudComputing) - AWS certification exam notes and CITS5503 Cloud Computing lab assignments.
 
