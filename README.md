@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm MoeBuTa:) 
 
 
-Master's graduate from The University of Western Australia with a degree in Software Engineering
+Master's graduate from The University of Western Australia with a degree in Software Engineering.
 
 Python, C, and Java are my primary programming languages for coursework and projects.
 
 Also, a Weeb, a Guitar fingerstyle lover, and a big fan of video games.
 
-Here are some of the projects I've completed:
+
+## Projects
 
 🔐 [MTDSimTime](https://github.com/MoeBuTa/MTDSimTime) - A research project on the simulation and evaluation of multiple moving target defence in the time domain.
 
