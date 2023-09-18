@@ -5,7 +5,7 @@ Master's graduate from The University of Western Australia with a degree in Soft
 
 Python, C, and Java are my primary programming languages for coursework and projects.
 
-Also, a Weeb, a Guitar fingerstyle lover, and a big fan of video games.
+Also, a weeb, a guitar fingerstyle lover, and a big fan of video games.
 
 
 ## Projects
