@@ -1,7 +1,11 @@
 ### Hi there 👋 I'm MoeBuTa:) 
 
 
-I am a graduate with a Master's degree in Software Engineering from The University of Western Australia. I like software programming and ACG-related stuff (you can tell by googling the meaning of my id). I'm aiming to become a "tech otaku".
+Master's graduate from The University of Western Australia with a degree in Software Engineering
+
+Python, C, and Java are my primary programming languages for coursework and projects.
+
+Also, a Weeb, a Guitar fingerstyle lover, and a big fan of video games.
 
 Here are some of the projects I've completed:
 
