@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm MoeBuTa:) 
 
 
-A graduate from The University of Western Australia with Master's degree of Software Engineering.
+A graduate from The University of Western Australia with a Master's degree in Software Engineering.
 
 Python, C, and Java are my primary programming languages for coursework and projects.
 
