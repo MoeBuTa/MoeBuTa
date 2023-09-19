@@ -7,7 +7,9 @@ Python, C, and Java are my primary programming languages for coursework and proj
 
 Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
-My Website: https://moebuta.github.io/
+- 🔗 My Website: https://moebuta.github.io/
+- 📫 You can reach me at moebutamail@gmail.com
+- 🖇️ Connect with me on LinkedIn: https://www.linkedin.com/in/wenxiao-zhang-a0801b206/
 
 ## Projects
 
