@@ -29,10 +29,6 @@ Having an idea, working hard to realise it, and enjoying the feeling of happines
 
 ☁️ [CloudComputing](https://github.com/MoeBuTa/CloudComputing) - AWS certification exam notes and CITS5503 Cloud Computing lab assignments.
 
-
-- 📫 You can reach me at moebutamail@gmail.com.
-- 🔗  Connect with me on LinkedIn: https://www.linkedin.com/in/wenxiao-zhang-a0801b206/.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeBuTa&layout=donut&theme=tokyonight)](https://github.com/MoeBuTa/github-readme-stats)
 <!-- [![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=tokyonight)](https://github.com/MoeBuTa/github-readme-stats&show_icons=true) -->
 
