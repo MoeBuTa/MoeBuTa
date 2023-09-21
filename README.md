@@ -1,6 +1,7 @@
-### Hi there 👋 I'm MoeBuTa (nickname) / Wenxiao (legal name) / Wes (English name).
+### Hi there 👋
 
-
+I'm MoeBuTa (nickname) / Wenxiao (legal name) / Wes (English name).
+ 
 A graduate from The University of Western Australia with a Master's degree in Software Engineering.
 
 Python, C, and Java are my primary programming languages for coursework and projects.
