@@ -1,3 +1,5 @@
+<img align='right' src='elaina.png' width="270" height="auto" >
+
 ### Hi there 👋
 
 I'm MoeBuTa (nickname) / Wenxiao (legal name) / Wes (English name).
