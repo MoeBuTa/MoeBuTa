@@ -18,6 +18,8 @@ Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
 ## Projects
 
+👩‍👧‍👦 [Starick](https://github.com/codersforcauses/starick) - A desktop and mobile website aiming to raise funds and awareness for Starick.
+
 🔐 [MTDSimTime](https://github.com/MoeBuTa/MTDSimTime) - A research project on the simulation and evaluation of multiple moving target defence in the time domain.
 
 🏥 [PubMedConnections](https://github.com/PubMedConnections/PubMedConnections) - A tool for exploring the relationships between authors in the PubMed database. 
