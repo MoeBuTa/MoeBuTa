@@ -8,7 +8,7 @@ I'm MoeBuTa (nickname) / Wenxiao (legal name) / Wes (English name).
  
 A graduate from The University of Western Australia with a Master's degree in Software Engineering.
 
-Python, C/C++, and Java are my primary programming languages for coursework and projects.
+Python and Javascript are my primary programming languages for coursework and projects.
 
 Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
