@@ -1,8 +1,6 @@
 <a href="https://moebuta.github.io/" >
-<img align='right' src='elaina.png' width="270" height="auto" >
+<img align='right' src='/assets/source/anime/image/elaina.png' width="150" height="auto" >
 </a>
-
-### Hi there 👋
 
 I'm MoeBuTa (nickname) / Wenxiao (legal name) / Wes (English name).
  
@@ -11,6 +9,8 @@ A graduate from The University of Western Australia with a Master's degree in So
 Python and Javascript are my primary programming languages for coursework and projects.
 
 Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
+
+An incoming PhD candidate(?)...
 
 - 🔗 My website: https://moebuta.github.io/
 - 📫 You can reach me at moebutamail@gmail.com
