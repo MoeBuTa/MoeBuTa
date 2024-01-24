@@ -1,5 +1,5 @@
 <a href="https://moebuta.github.io/" >
-<img align='right' src='/assets/source/anime/image/elaina.png' width="150" height="auto" >
+<img align='right' src='elaina.png' width="150" height="auto" >
 </a>
 
 I'm MoeBuTa (nickname) / Wenxiao (legal name) / Wes (English name).
