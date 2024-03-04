@@ -2,7 +2,7 @@
 <img align='right' src='elaina.png' width="150" height="auto" >
 </a>
 
-I'm MoeBuTa (nickname) / Wenxiao (legal name) / Wes (English name).
+I'm MoeBuTa (nickname) / Wenxiao (legal name).
  
 A graduate from The University of Western Australia with a Master's degree in Software Engineering.
 
