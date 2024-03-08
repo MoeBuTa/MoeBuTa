@@ -38,4 +38,4 @@ An incoming PhD candidate(?)...
 
 [![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=tokyonight&card_width=500)](https://github.com/MoeBuTa/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoeBuTa&theme=dark)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoeBuTa&theme=dark&card_width=500)]
