@@ -10,7 +10,7 @@ Python and Javascript are my primary programming languages for coursework and pr
 
 Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
-An incoming PhD candidate(?)...
+An PhD student...
 
 - 🔗 My website: https://moebuta.github.io/
 - 📫 You can reach me at moebutamail@gmail.com or wenxiao.zhang@research.uwa.edu.au
