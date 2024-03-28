@@ -34,8 +34,8 @@ An PhD student...
 
 ☁️ [CloudComputing](https://github.com/MoeBuTa/CloudComputing) - AWS certification exam notes and CITS5503 Cloud Computing lab assignments.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeBuTa&layout=compact&theme=tokyonight&card_width=500&langs_count=10)](https://github.com/MoeBuTa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeBuTa&layout=compact&theme=tokyonight&card_width=500&langs_count=10)](https://github.com/MoeBuTa/github-readme-stats)
 
-![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=tokyonight&card_width=500)](https://github.com/MoeBuTa/github-readme-stats)
+[![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=tokyonight&card_width=500)](https://github.com/MoeBuTa/github-readme-stats)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoeBuTa&theme=dark&card_width=500)
