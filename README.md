@@ -3,17 +3,17 @@
 </a>
 
 
-<img src="https://counter.seku.su/cmoe?name=MoeBuTa&theme=r34" /><br>
-
 I'm MoeBuTa (nickname) / Wenxiao (legal name).
  
-A graduate from The University of Western Australia with a Master's degree in Software Engineering.
+A PhD student at UWA.
 
-Python and Javascript are my primary programming languages for coursework and projects.
+Python is my primary programming language for projects.
 
-Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
+A graduate from UWA with a Master's degree in Software Engineering.
 
-An PhD student...
+Also, a weeb (moebuta), a fingerstyle guitar enthusiast, and a big fan of video games.\
+
+...
 
 - 🔗 My website: https://moebuta.github.io/
 - 📫 You can reach me at moebutamail@gmail.com or wenxiao.zhang@research.uwa.edu.au
@@ -42,3 +42,5 @@ An PhD student...
 [![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=tokyonight&card_width=500)](https://github.com/MoeBuTa/github-readme-stats)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoeBuTa&theme=dark&card_width=500)
+
+<img src="https://counter.seku.su/cmoe?name=gptsovits&theme=r34" /><br>
