@@ -3,7 +3,7 @@
 </a>
 
 
-<img src="https://counter.seku.su/cmoe?name=moebuta&theme=r34" /><br>
+<img src="https://counter.seku.su/cmoe?name=MoeBuTa&theme=r34" /><br>
 
 I'm MoeBuTa (nickname) / Wenxiao (legal name).
  
