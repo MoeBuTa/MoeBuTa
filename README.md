@@ -43,4 +43,4 @@ Also, a weeb (moebuta), a fingerstyle guitar enthusiast, and a big fan of video 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoeBuTa&theme=dark&card_width=500)
 
-<img src="https://counter.seku.su/cmoe?name=gptsovits&theme=r34" /><br>
+<img src="https://counter.seku.su/cmoe?name=MoeBuTa&theme=r34" /><br>
