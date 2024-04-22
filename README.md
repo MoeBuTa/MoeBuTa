@@ -2,7 +2,8 @@
 <img align='right' src='elaina.png' width="150" height="auto" >
 </a>
 
-[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/MoeBuTa)
+
+<img src="https://counter.seku.su/cmoe?name=moebuta&theme=r34" /><br>
 
 I'm MoeBuTa (nickname) / Wenxiao (legal name).
  
