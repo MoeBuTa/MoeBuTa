@@ -11,7 +11,7 @@ Python is my primary programming language for projects.
 
 A graduate from UWA with a Master's degree in Software Engineering.
 
-Also, a weeb (moebuta), a fingerstyle guitar enthusiast, and a big fan of video games.\
+Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
 ...
 
