@@ -1,7 +1,7 @@
 <a href="https://moebuta.github.io/" >
 <img align='right' src='elaina.png' width="150" height="auto" >
 </a>
-
+<img src="https://counter.seku.su/cmoe?name=MoeBuTa&theme=r34" /><br>
 
 I'm MoeBuTa (nickname) / Wenxiao (legal name).
  
@@ -42,5 +42,3 @@ Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 [![MoeBuTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoeBuTa&theme=tokyonight&card_width=500)](https://github.com/MoeBuTa/github-readme-stats)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoeBuTa&theme=dark&card_width=500)
-
-<img src="https://counter.seku.su/cmoe?name=MoeBuTa&theme=r34" /><br>
