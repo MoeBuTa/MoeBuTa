@@ -21,6 +21,8 @@ Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
 ## Projects
 
+🔗 [Doc2KG](https://github.com/AI4WA/Docs2KG) - Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models.
+
 👩‍👧‍👦 [Starick](https://github.com/codersforcauses/starick) - A desktop and mobile website aiming to raise funds and awareness for Starick.
 
 🔐 [MTDSimTime](https://github.com/MoeBuTa/MTDSimTime) - A research project on the simulation and evaluation of multiple moving target defence in the time domain.
