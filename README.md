@@ -5,11 +5,7 @@
 
 I'm MoeBuTa (nickname) / Wenxiao (legal name).
  
-A PhD student at UWA.
-
-Python is my primary programming language for projects.
-
-A graduate from UWA with a Master's degree in Software Engineering.
+A PhD student at UWA interested in topics related to AI agents and their security in cyber-physical environments.
 
 Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
