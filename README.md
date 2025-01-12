@@ -39,4 +39,4 @@ Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
 [![MoeBuTa's GitHub stats](https://github-readme-stats-eta-seven-76.vercel.app/api?username=MoeBuTa&theme=tokyonight&card_width=500)](https://github.com/MoeBuTa/github-readme-stats)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoeBuTa&theme=dark&card_width=500)
+![GitHub Streak](https://github-readme-streak-stats-snowy-six.vercel.app?user=MoeBuTa&theme=dark&card_width=500)
