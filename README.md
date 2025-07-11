@@ -11,7 +11,7 @@ Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
 ...
 
-- 🔗 My website: https://moebuta.github.io/
+- 🔗 My website: https://wenxiao-zhang.com/
 - 📫 You can reach me at moebutamail@gmail.com or wenxiao.zhang@research.uwa.edu.au
 - 🖇️ Connect with me on LinkedIn: https://www.linkedin.com/in/wenxiao-zhang-a0801b206/
 
