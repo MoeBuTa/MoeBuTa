@@ -17,7 +17,7 @@ Also, a weeb, a fingerstyle guitar enthusiast, and a big fan of video games.
 
 ## Projects
 
-🧭 [STIndex](https://github.com/MoeBuTa/STIndex) - A multi-dimensional information extraction system that uses LLMs to extract temporal, spatial, and custom dimensional data from unstructured text. 
+🧭 [STIndex](https://github.com/MoeBuTa/STIndex) - A multi-dimensional information extraction system that uses LLMs to extract temporal, spatial, and custom dimensional data. 
 
 🔗 [Doc2KG](https://github.com/AI4WA/Docs2KG) - Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models.
 
