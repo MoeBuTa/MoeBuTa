@@ -4,4 +4,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-of4j.vercel.app?user=moebuta&theme=dark&card_width=500)](https://git.io/streak-stats)
 
-_<img src="https://counter.seku.su/cmoe?name=MoeBuTa&theme=r34" /><br>_
+
